@@ -1,0 +1,1 @@
+// Mood input component placeholder.

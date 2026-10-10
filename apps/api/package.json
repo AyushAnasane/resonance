@@ -1,0 +1,14 @@
+{
+  "name": "@resonance/api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "ollama": "^0.6.4",
+    "openai": "^7.32.0"
+  }
+}
