@@ -6,3 +6,7 @@ dist/
 .DS_Store
 coverage/
 *.log
+
+# Local session data and generated files
+apps/api/.sessions/
+*.tsbuildinfo
